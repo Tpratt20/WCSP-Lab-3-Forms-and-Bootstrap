@@ -1,0 +1,46 @@
+#warning-text {
+
+    color: red;
+    font-size: x-large;
+    margin-left: 50px;
+
+}
+
+#warning-text-p {
+
+    border: 50px dotted red;
+    padding: 20px;
+
+}
+
+p {
+
+    margin-top: 300px;
+    margin-bottom: 900px;
+    margin-left: 100px;
+    margin-right: 100px;
+
+
+}
+
+#test-alert-p {
+
+    border: 50px solid green;
+    
+    background-color: green;
+
+}
+
+#real-alert-p {
+
+    border: 50px solid red;
+    background-color: red;
+
+}
+
+strong {
+
+    font-size: xx-large;
+
+}
+
